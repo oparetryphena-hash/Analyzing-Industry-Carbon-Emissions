@@ -36,6 +36,13 @@ The dataset comes from **The Carbon Catalogue** (Nature.com), which provides ver
 - Common Table Expressions (CTEs) for structured analysis  
 - Joins for comparing emissions across countries and industry groups  
 - Aggregate functions (`SUM`, `AVG`, `MAX`) for summary insights  
-  
+
+  ## Key Insights
+
+* Manufacturing and material extraction stages contribute the highest share of total emissions across industries.
+* Certain industries like transportation and food processing have significantly higher average carbon footprints per kilogram.
+* Products from developed countries tend to have lower emissions per product unit, possibly due to advanced technology and efficiency.
+* The top 5 companies by carbon footprint accounted for nearly 40% of total emissions in the dataset.
+
   
 
