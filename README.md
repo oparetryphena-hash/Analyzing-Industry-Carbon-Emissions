@@ -24,3 +24,10 @@ The dataset comes from **The Carbon Catalogue** (Nature.com), which provides ver
 | `weight_kg` | Product weight (kg) | NUMERIC |
 | `carbon_footprint_pcf` | Total carbon footprint (kg CO₂e) | NUMERIC |
 | `stage_emission` | Emission stage (e.g., production, use, end-of-life) | VARCHAR |
+
+##  Tools Used
+
+- **PostgreSQL** – for database creation, queries, and analysis  
+- **Jupyter Notebook** – for documentation and visualization of SQL queries  
+  
+
