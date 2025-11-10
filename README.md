@@ -44,5 +44,9 @@ The dataset comes from **The Carbon Catalogue** (Nature.com), which provides ver
 * Products from developed countries tend to have lower emissions per product unit, possibly due to advanced technology and efficiency.
 * The top 5 companies by carbon footprint accounted for nearly 40% of total emissions in the dataset.
 
+##  Conclusion
+
+This project highlights how SQL can be used for environmental and sustainability analytics, turning raw emission data into actionable insights for policymakers and companies aiming to reduce their carbon impact.
+
   
 
