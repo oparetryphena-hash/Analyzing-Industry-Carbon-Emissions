@@ -27,6 +27,15 @@ The dataset comes from **The Carbon Catalogue** (Nature.com), which provides ver
 ##  Tools Used
 
 - **PostgreSQL** – for database creation, queries, and analysis  
-- **Jupyter Notebook** – for documentation and visualization of SQL queries  
+- **Jupyter Notebook** – for documentation and visualization of SQL queries
+
+## SQL Techniques Applied
+
+- Data filtering and grouping using `GROUP BY` and `HAVING`  
+- Window functions to compare emissions between products and companies  
+- Common Table Expressions (CTEs) for structured analysis  
+- Joins for comparing emissions across countries and industry groups  
+- Aggregate functions (`SUM`, `AVG`, `MAX`) for summary insights  
+  
   
 
